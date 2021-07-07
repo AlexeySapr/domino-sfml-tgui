@@ -9,4 +9,5 @@
   - гайд с сайта библиотеки https://www.sfml-dev.org/tutorials/2.5/start-vc.php
   - дополнительный гайд https://ravesli.com/graficheskaya-biblioteka-sfml-vstuplenie-i-ustanovka/
 4. Подключить к проекту библиотеку TGUI https://tgui.eu/tutorials/0.9/visual-studio/
-5. Скомпилировать и запустить проект.
+5. Папки include и lib для обеих библиотек находятся в папке External
+6. Скомпилировать и запустить проект.
