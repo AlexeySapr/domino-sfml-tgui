@@ -1,5 +1,8 @@
 # domino-sfml-tgui
 Игра Домино на С++ с использованием библиотек SFML и TGUI
+![изображение](https://user-images.githubusercontent.com/59963440/147561253-7536330e-5ece-4120-8062-4cafdf378e70.png)
+![изображение](https://user-images.githubusercontent.com/59963440/147561352-357b7c2b-fa32-4e88-b338-4a18fbe4cdd6.png)
+
 
 Для работы в Visual Studio 2019 необходимо:
 
